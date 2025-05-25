@@ -1,0 +1,11 @@
+export { ReactComponent as LogoIcon } from "./icons/logo-icon.svg";
+export { ReactComponent as MailIcon } from "./icons/mail-icon.svg";
+export { ReactComponent as InstagramIcon } from "./icons/instagram-icon.svg";
+export { ReactComponent as FacebookIcon } from "./icons/facebook-icon.svg";
+export { ReactComponent as DashboardIcon } from "./icons/dashboard-icon.svg";
+export { ReactComponent as CoursesIcon } from "./icons/courses-icon.svg";
+export { ReactComponent as ChatsIcon } from "./icons/chats-icon.svg";
+export { ReactComponent as SearchIcon } from "./icons/search-icon.svg";
+export { ReactComponent as NotificationsIcon } from "./icons/notifications-icon.svg";
+export { ReactComponent as ProfileIcon } from "./icons/profile-icon.svg";
+export { ReactComponent as RightTopArrow } from "./icons/right-top-arrow.svg";
